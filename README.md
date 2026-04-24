@@ -80,17 +80,17 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorv1699\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv1699\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add your LinkedIn profile here
-* Email: [yourmail@example.com](mailto:yourmail@example.com)
+* GitHub: https://github.com/apoorv1699
+* LinkedIn: https://www.linkedin.com/in/kumar-apoorb-2a3468250/
+* Email: [kumarapoorv2008@gmail.com](mailto:kumarapoorv2008@gmail.com)
 
 ---
 
