@@ -1,66 +1,97 @@
-# 👋 Hi, I'm Kumar Apoorb
+# 👋 Hi, I'm Kumar Apoorv
 
-🚀 Full Stack Developer | MERN Stack | Java | Spring Boot  
+🚀 Full Stack Developer | MERN Stack | Java | Spring Boot | AI Integration
 💻 Passionate about building scalable, secure, and user-friendly web applications
+🌱 Focused on solving real-world problems through modern web technologies
 
 ---
 
 ## 🔧 Tech Stack
 
-**Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Bootstrap
+### 💻 Frontend
 
-**Backend**
-- Node.js, Express.js
-- Java, Spring Boot
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js, Bootstrap, Material UI
 
-**Database**
-- MongoDB, MySQL
+### ⚙️ Backend
 
-**Tools & Platforms**
-- Git & GitHub
-- Postman
-- VS Code
+* Node.js, Express.js
+* Java, Spring Boot
+* REST API Development
 
----
+### 🗄️ Database
 
-## 📌 Projects
+* MongoDB, MySQL
 
-### 🛒 E-Commerce Web Application (MERN)
-- User authentication & authorization
-- Product management and shopping cart
-- RESTful APIs with Node.js & Express
-- MongoDB for data persistence
+### 🛠️ Tools & Platforms
 
-### 📝 Todo List Application (React + MUI)
-- Create, update, delete tasks
-- Mark tasks as completed
-- Responsive UI using Material UI
-
-### 🔐 Encryption & Decryption using Quantum Computing (BB84)
-- Implemented BB84 Quantum Key Distribution
-- Encrypted text and image data
-- Python & Streamlit-based application
+* Git & GitHub
+* Postman
+* VS Code
+* IntelliJ IDEA
 
 ---
 
-## 🎯 What I'm Learning
-- Advanced React patterns
-- Backend system design
-- Cloud deployment fundamentals
+## 📌 Featured Projects
+
+### 🏥 ConsultPro – AI Healthcare Platform
+
+> Full-stack healthcare platform with AI-powered symptom checker, doctor booking, prescriptions, and admin dashboard.
+
+**Key Features:**
+
+* Conversational AI Symptom Checker
+* Severity & Emergency Detection
+* Doctor Appointment Booking
+* Patient / Doctor / Admin Dashboards
+* Secure Authentication & Role Management
+
+**Tech Used:** React.js, Spring Boot, MySQL, REST APIs
+
+---
+
+### 🛒 E-Commerce Web Application
+
+> Full-featured MERN stack e-commerce platform.
+
+**Features:**
+
+* User Authentication & Authorization
+* Product Management
+* Shopping Cart & Checkout Flow
+* Responsive UI
+* REST APIs
+
+**Tech Used:** MongoDB, Express.js, React.js, Node.js
+
+---
+
+### 📝 Todo List Application
+
+> Clean productivity app built using React + Material UI.
+
+**Features:**
+
+* Add / Delete Tasks
+* Mark Completed
+* Responsive Design
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/apoorv1699
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: Add your LinkedIn profile here
+* Email: [yourmail@example.com](mailto:yourmail@example.com)
 
 ---
 
-⭐ Feel free to explore my repositories and give a star if you like my work!
-
-
-<!---
-apoorv1699/apoorv1699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ Open to internships, freelance projects, and collaboration opportunities.
